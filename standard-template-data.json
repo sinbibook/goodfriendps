@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-11-05T12:29:05.353066869Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-11-18T04:56:39.840755256Z",
     "templateType": "trip_b",
     "propertyId": "508ae728-866f-473d-80c3-2054cbed992d",
     "homepageId": "01a1a51e-abd2-7807-8d96-7c55a9dadfb1"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분",
-    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 12개월 이상~8세 미만\n- 유아: 12개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 15,000원, 아동 1인 15,000원, 유아 무료\n(1박기준/현장결제)\n※ 객실금액은 기준인원에 대한 금액이며 기준인원 초과 시 추가요금이 발생합니다.\n\n[개별바베큐]\n- 제공 구성: 숯 그릴 집게 가위\n- 이용 요금: 2인 20,000원 / 3인~4인 30,000원/ 5인 이상 40,000원 (1박기준/현장결제)\n- 신청 시간: ~20:00\n- 이용 시간: ~22:00\n- 우천 시: 이용 불가\n- 동계 시: 이용 불가\n- 강풍 시: 이용 불가\n※ 숯 그릴 개인지참 불가입니다.\n※ 동절기 이용 불가(12월~2월) 합니다.\n\n[편의 및 주변 시설]\n- 도보 7분거리에 용화해수욕장\n- 편의점 도보 약 2분 GS25\n- 하나로마트 차량 약 5분\n- 엘레베이터 미보유\n\n[주차장]\n- 전기차 충전기 이용 가능\n※ 도보 5분 거리\n\n[교통편]\n- 삼척 좋은친구 펜션 홈페이지 '위치안내'에서 확인 가능합니다.",
+    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 12개월 이상~8세 미만\n- 유아: 12개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 객실금액은 기준인원에 대한 금액이며 기준인원 초과 시 추가요금이 발생합니다.\n\n[개별바베큐]\n- 제공 구성: 숯 그릴 집게 가위\n- 이용 요금: 2인 20,000원 / 3인~4인 30,000원/ 5인 이상 40,000원 (1박기준/현장결제)\n- 신청 시간: ~20:00\n- 이용 시간: ~22:00\n- 우천 시: 이용 불가\n- 동계 시: 이용 불가\n- 강풍 시: 이용 불가\n※ 숯 그릴 개인지참 불가입니다.\n※ 동절기 이용 불가(12월~2월) 합니다.\n\n[편의 및 주변 시설]\n- 도보 7분거리에 용화해수욕장\n- 편의점 도보 약 2분 GS25\n- 하나로마트 차량 약 5분\n- 엘레베이터 미보유\n\n[주차장]\n- 전기차 충전기 이용 가능\n※ 도보 5분 거리\n\n[교통편]\n- 삼척 좋은친구 펜션 홈페이지 '위치안내'에서 확인 가능합니다.",
     "reservationGuide": "",
     "province": "도/시",
     "city": "시/군/구",
@@ -204,7 +204,7 @@
           {
             "id": "6f9afd25-94eb-46eb-bd0f-73f8866d3f45",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/DavbhyNVIk5L.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -214,7 +214,7 @@
           {
             "id": "9a9d7015-ae1d-4c1d-aa4b-15db7020b118",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/I40yi9DqNGFe.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -222,7 +222,7 @@
           {
             "id": "36cf8a9f-769f-4c9f-9883-2e84d6ec08c1",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/l5UBOTsEjGkD.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -230,7 +230,7 @@
           {
             "id": "573132ce-f85a-4cd7-aee0-cf4be09d03d5",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/8xP53ryDWm2w.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -238,7 +238,7 @@
           {
             "id": "58bec3f9-ea10-46f6-82a5-acdc48075405",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/AERghycxYK2L.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -246,7 +246,7 @@
           {
             "id": "5a1a79c9-0240-4694-8534-faf6719ca106",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/HK1vBsDGZ6nL.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -254,7 +254,7 @@
           {
             "id": "c9dffe85-2a6d-4e62-8fe6-713515362818",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/qsjWBtUl4vhk.jpg",
-            "sortOrder": 5,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -262,7 +262,7 @@
           {
             "id": "8f4bdf8c-8dc7-486c-9673-e01e1c63aa4c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/Xfb6BYnvJzDA.jpg",
-            "sortOrder": 6,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -270,7 +270,7 @@
           {
             "id": "65419415-e384-41df-820c-eba9a0c11f4d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/GbCswH7JVQvd.jpg",
-            "sortOrder": 7,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -2825,7 +2825,8 @@
         }
       ],
       "footer": {
-        "ruralStayMark": null
+        "ruralStayMark": null,
+        "ruralStayMarks": [ ]
       }
     }
   }
